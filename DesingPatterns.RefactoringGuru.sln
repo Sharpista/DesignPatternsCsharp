@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "src\Padr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "src\Padroes\Criacionais\Builder\Builder.csproj", "{B6881A58-D3A9-41D3-B448-5A7C2E498E85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "src\Padroes\Criacionais\Prototype\Prototype.csproj", "{9A3A2874-3E3A-46CF-88AC-88195F08ECF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "src\Padroes\Criacionais\Prototype\Prototype.csproj", "{9A3A2874-3E3A-46CF-88AC-88195F08ECF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "src\Padroes\Estruturais\Adapter\Adapter.csproj", "{43B37669-10D2-425D-9D22-2A3FCEE0B5D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9A3A2874-3E3A-46CF-88AC-88195F08ECF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A3A2874-3E3A-46CF-88AC-88195F08ECF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A3A2874-3E3A-46CF-88AC-88195F08ECF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B37669-10D2-425D-9D22-2A3FCEE0B5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B37669-10D2-425D-9D22-2A3FCEE0B5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B37669-10D2-425D-9D22-2A3FCEE0B5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B37669-10D2-425D-9D22-2A3FCEE0B5D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
