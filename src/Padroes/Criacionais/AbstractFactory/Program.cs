@@ -21,6 +21,7 @@ public class Program
         Console.WriteLine(samsungClient.BuscarSmartPhoneModeloDetalhes());
         Console.WriteLine(samsungClient.BuscarNormalPhoneModeloDetalhes());
 
+
         Console.ReadKey();
     }
 }
